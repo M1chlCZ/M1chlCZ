@@ -13,7 +13,7 @@ I build backend services, API integrations, and developer tools. My public proje
 
 ## Featured project: [nsfw_sherlock](https://github.com/M1chlCZ/nsfw_sherlock)
 
-**An image moderation API in Go. My favorite open-source project.**
+**An image moderation API in Go.***
 
 NSFW Sherlock classifies images through HTTP and gRPC APIs. The current engine uses ONNX Runtime.
 
