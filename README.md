@@ -13,6 +13,16 @@ I build backend services, Flutter apps, and developer tools. My open-source work
 
 ## Featured projects
 
+### [Local Coding Assistant](https://github.com/M1chlCZ/local-coding-assistant) · Python / C# / CUDA
+
+A research prototype for local coding models on 16 GB NVIDIA GPUs, with a Windows launcher and a native Training Studio.
+
+- Run coding chat and agent APIs through llama.cpp and CUDA.
+- Control WSL fine-tuning with Start, Pause, Resume, and Stop.
+- Track GPU use, checkpoints, and matched coding evaluations.
+
+[Source and setup](https://github.com/M1chlCZ/local-coding-assistant#readme) · [Training Studio](https://github.com/M1chlCZ/local-coding-assistant/tree/main/desktop) · [Research and results](https://github.com/M1chlCZ/local-coding-assistant#measured-results)
+
 ### [AgentWave](https://github.com/M1chlCZ/agentwave) · Go
 
 An embeddable AI assistant for admin panels, CRMs, and internal tools. It turns a request and the current screen route into one policy-validated suggestion.
