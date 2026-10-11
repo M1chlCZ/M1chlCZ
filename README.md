@@ -11,6 +11,12 @@ I build backend services, Flutter apps, and developer tools. My open-source work
 ![Flutter](https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
 
+## Support my work or hire me
+
+If these projects help you, you can support their maintenance through [Ko-fi](https://ko-fi.com/m1chl) or [Buy Me a Coffee](https://buymeacoffee.com/xdujifyzvt).
+
+For paid Go, Rust, Flutter, or API integration work, [email me](mailto:m1chlcz18@gmail.com). We can agree on the scope before starting.
+
 ## Featured projects
 
 ### [nsfw_sherlock](https://github.com/M1chlCZ/nsfw_sherlock)
