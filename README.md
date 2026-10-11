@@ -37,7 +37,11 @@ An embeddable AI assistant for admin panels, CRMs, and internal tools. It turns 
 - The Codex CLI generates suggestions with its tools disabled.
 - The application controls whether to apply each suggestion.
 
-[Source and integration guide](https://github.com/M1chlCZ/agentwave#readme)
+[![AgentWave CI](https://img.shields.io/github/actions/workflow/status/M1chlCZ/agentwave/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/M1chlCZ/agentwave/actions/workflows/ci.yml)
+[![AgentWave release](https://img.shields.io/github/v/release/M1chlCZ/agentwave?style=flat-square&label=release)](https://github.com/M1chlCZ/agentwave/releases)
+[![AgentWave Docker pulls](https://img.shields.io/docker/pulls/m1chl/agentwave?style=flat-square)](https://hub.docker.com/r/m1chl/agentwave)
+
+[Source and integration guide](https://github.com/M1chlCZ/agentwave#readme) · [Docker Hub](https://hub.docker.com/r/m1chl/agentwave)
 
 ### [Training Studio](https://github.com/M1chlCZ/local-coding-assistant) · Python / C# / CUDA
 
