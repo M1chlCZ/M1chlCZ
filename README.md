@@ -13,6 +13,32 @@ I build backend services, Flutter apps, and developer tools. My open-source work
 
 ## Featured projects
 
+### [nsfw_sherlock](https://github.com/M1chlCZ/nsfw_sherlock)
+
+**An image moderation API in Go.**
+
+NSFW Sherlock classifies images through HTTP and gRPC APIs. The current engine uses ONNX Runtime.
+
+- Multiple models classify photos and anime images and detect explicit regions.
+- Optional OCR uses Tesseract to detect text in images.
+- Docker images include the models for deployment.
+
+[![NSFW Sherlock CI](https://img.shields.io/github/actions/workflow/status/M1chlCZ/nsfw_sherlock/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/M1chlCZ/nsfw_sherlock/actions/workflows/ci.yml)
+[![NSFW Sherlock release](https://img.shields.io/github/v/release/M1chlCZ/nsfw_sherlock?style=flat-square&label=release)](https://github.com/M1chlCZ/nsfw_sherlock/releases)
+[![Docker pulls](https://img.shields.io/docker/pulls/m1chl/nsfw-sherlock?style=flat-square)](https://hub.docker.com/r/m1chl/nsfw-sherlock)
+
+[Source and API documentation](https://github.com/M1chlCZ/nsfw_sherlock#readme) · [Docker Hub](https://hub.docker.com/r/m1chl/nsfw-sherlock)
+
+### [AgentWave](https://github.com/M1chlCZ/agentwave) · Go
+
+An embeddable AI assistant for admin panels, CRMs, and internal tools. It turns a request and the current screen route into one policy-validated suggestion.
+
+- A private Unix socket connects the service to the application backend.
+- The Codex CLI generates suggestions with its tools disabled.
+- The application controls whether to apply each suggestion.
+
+[Source and integration guide](https://github.com/M1chlCZ/agentwave#readme)
+
 ### [Training Studio](https://github.com/M1chlCZ/local-coding-assistant) · Python / C# / CUDA
 
 A research prototype for local coding models on 16 GB NVIDIA GPUs, with a Windows launcher and a native Training Studio.
@@ -32,32 +58,6 @@ A small CLI for reading, filtering, and following log files without loading the 
 - Use it interactively or print results once for scripts.
 
 [Quick start and examples](https://github.com/M1chlCZ/Rust-a-Log#quick-start) · [Source](https://github.com/M1chlCZ/Rust-a-Log)
-
-### [AgentWave](https://github.com/M1chlCZ/agentwave) · Go
-
-An embeddable AI assistant for admin panels, CRMs, and internal tools. It turns a request and the current screen route into one policy-validated suggestion.
-
-- A private Unix socket connects the service to the application backend.
-- The Codex CLI generates suggestions with its tools disabled.
-- The application controls whether to apply each suggestion.
-
-[Source and integration guide](https://github.com/M1chlCZ/agentwave#readme)
-
-### [nsfw_sherlock](https://github.com/M1chlCZ/nsfw_sherlock)
-
-**An image moderation API in Go.**
-
-NSFW Sherlock classifies images through HTTP and gRPC APIs. The current engine uses ONNX Runtime.
-
-- Multiple models classify photos and anime images and detect explicit regions.
-- Optional OCR uses Tesseract to detect text in images.
-- Docker images include the models for deployment.
-
-[![NSFW Sherlock CI](https://img.shields.io/github/actions/workflow/status/M1chlCZ/nsfw_sherlock/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/M1chlCZ/nsfw_sherlock/actions/workflows/ci.yml)
-[![NSFW Sherlock release](https://img.shields.io/github/v/release/M1chlCZ/nsfw_sherlock?style=flat-square&label=release)](https://github.com/M1chlCZ/nsfw_sherlock/releases)
-[![Docker pulls](https://img.shields.io/docker/pulls/m1chl/nsfw-sherlock?style=flat-square)](https://hub.docker.com/r/m1chl/nsfw-sherlock)
-
-[Source and API documentation](https://github.com/M1chlCZ/nsfw_sherlock#readme) · [Docker Hub](https://hub.docker.com/r/m1chl/nsfw-sherlock)
 
 ## npm packages
 
