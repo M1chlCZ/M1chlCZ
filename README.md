@@ -13,7 +13,7 @@ I build backend services, Flutter apps, and developer tools. My open-source work
 
 ## Featured projects
 
-### [Local Coding Assistant](https://github.com/M1chlCZ/local-coding-assistant) · Python / C# / CUDA
+### [Training Studio](https://github.com/M1chlCZ/local-coding-assistant) · Python / C# / CUDA
 
 A research prototype for local coding models on 16 GB NVIDIA GPUs, with a Windows launcher and a native Training Studio.
 
@@ -21,7 +21,17 @@ A research prototype for local coding models on 16 GB NVIDIA GPUs, with a Window
 - Control WSL fine-tuning with Start, Pause, Resume, and Stop.
 - Track GPU use, checkpoints, and matched coding evaluations.
 
-[Source and setup](https://github.com/M1chlCZ/local-coding-assistant#readme) · [Training Studio](https://github.com/M1chlCZ/local-coding-assistant/tree/main/desktop) · [Research and results](https://github.com/M1chlCZ/local-coding-assistant#measured-results)
+[Source and setup](https://github.com/M1chlCZ/local-coding-assistant#readme) · [Training Studio](https://github.com/M1chlCZ/local-coding-assistant/tree/main/desktop) · [Research and results](https://github.com/M1chlCZ/local-coding-assistant#earlier-measured-results)
+
+### [Rust-a-Log](https://github.com/M1chlCZ/Rust-a-Log) · Rust
+
+A small CLI for reading, filtering, and following log files without loading the whole file into memory.
+
+- Show the last matching errors or warnings, then follow new records.
+- Combine level filters with a literal text search.
+- Use it interactively or print results once for scripts.
+
+[Quick start and examples](https://github.com/M1chlCZ/Rust-a-Log#quick-start) · [Source](https://github.com/M1chlCZ/Rust-a-Log)
 
 ### [AgentWave](https://github.com/M1chlCZ/agentwave) · Go
 
